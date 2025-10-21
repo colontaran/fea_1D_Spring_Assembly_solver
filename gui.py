@@ -8,7 +8,7 @@ Requires: numpy, Pillow, tkinter
 """
 from __future__ import annotations
 import tkinter as tk
-from tkinter import ttk, messagebox, filedialog
+from tkinter import ttk, messagebox, 
 import tkinter.font as tkfont
 import numpy as np
 import os, csv
@@ -943,3 +943,4 @@ def main():
 
 if __name__ == "__main__":
     main()
+
